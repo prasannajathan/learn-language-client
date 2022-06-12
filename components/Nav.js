@@ -52,9 +52,16 @@ const Nav = () => {
                         </Link>
                     </li>
                     <li>
-                        <Link href="/films">
+                        <Link href="/tutors">
                             <a className="md:p-2 py-2 block hover:text-purple-400" href="#">
                                 Tutors
+                            </a>
+                        </Link>
+                    </li>
+                    <li>
+                        <Link href="/blog">
+                            <a className="md:p-2 py-2 block hover:text-purple-400" href="#">
+                                Blog
                             </a>
                         </Link>
                     </li>
